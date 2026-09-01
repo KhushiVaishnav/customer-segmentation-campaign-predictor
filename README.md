@@ -142,6 +142,8 @@ customer-segmentation-campaign-predictor/
 │
 ├── models/
 │   └── saved/
+│       ├── random_forest_model.pkl
+│       └── scaler.pkl
 │
 ├── notebooks/
 │   ├── 01_Data_Preprocessing.ipynb
@@ -150,7 +152,7 @@ customer-segmentation-campaign-predictor/
 │
 ├── reports/
 │   ├── figures/
-│   └── tables/
+│   
 │
 ├── Customer_Segmentation_Report.pdf
 └── README.md
